@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f2f70bef6e357e479a061ef8beef3bd, type: 3}
+  m_Name: Pea
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 413297704981924494, guid: 37405f6df877f854b9587a9b041f5b07, type: 3}
+  cost: 100
+  placementYOffset: 0.5
+  health: 10
+  projectilePrefab: {fileID: 1879747660383601776, guid: 512880d6ae0dae04f9f8aed9007240c0, type: 3}
+  shootCooldown: 1.2
+  shootRange: 6
+  isIncomeGenerator: 0
+  incomeCooldown: 0
+  incomeAmount: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f2f70bef6e357e479a061ef8beef3bd, type: 3}
+  m_Name: Nut
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 704335070928656190, guid: 36a82aa2ec32efd43ab3c8ea3b7469e1, type: 3}
+  cost: 50
+  placementYOffset: 0.5
+  health: 20
+  projectilePrefab: {fileID: 0}
+  shootCooldown: 0
+  shootRange: 0
+  isIncomeGenerator: 0
+  incomeCooldown: 0
+  incomeAmount: 0

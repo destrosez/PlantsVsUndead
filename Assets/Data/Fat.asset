@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d63bb9cc651ae14c9d42517939646e7, type: 3}
+  m_Name: Fat
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8037423010688342151, guid: 43fb4c65de8663f44942a0421be6b157, type: 3}
+  health: 25
+  movementSpeed: 0.5
+  damage: 3
+  damageCooldown: 2
+  worth: 20
