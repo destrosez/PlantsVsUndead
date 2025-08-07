@@ -1,4 +1,4 @@
-# PlantsVsUndead
+# PlantsVsUndead3D
 
 [![Unity 2020.3+](https://img.shields.io/badge/Unity-2020.3%2B-blue.svg)](https://unity.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
